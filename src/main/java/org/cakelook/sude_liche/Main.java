@@ -1,4 +1,4 @@
-package org.cakelook;
+package org.cakelook.sude_liche;
 
 import java.util.Scanner;
 
