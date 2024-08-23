@@ -1,4 +1,4 @@
-package org.cakelook;
+package org.cakelook.kalkulacka;
 
 import java.util.Scanner;
 
